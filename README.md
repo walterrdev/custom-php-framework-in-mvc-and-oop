@@ -1,7 +1,7 @@
 # Custom PHP Framework in MVC and OOP
 
-Framework PHP personalizado con el patrón de arquitectura modelo, vista, controlador (MVC) y el paradigma de Programación Orientada a Objeto (POO).
+Customized PHP framework with the model, view, controller (MVC) architecture pattern and the Object Oriented Programming (OOP) paradigm.
 
-Basado en el curso Crea Tu Framework MVC con PHP:
+Based on the course Create Your MVC Framework with PHP:<br>
 https://www.youtube.com/playlist?list=PLty0cFLf07jXQA5_P9rDMWjpEet2wTXN1
 
